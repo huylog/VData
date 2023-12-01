@@ -7,7 +7,7 @@ using System.Reflection;
 class VData 
 {
     // declaring the dictionary "garage"
-    public static Dictionary<string, Car> garage = new Dictionary<string, Car>(); //string nickname is stored in class Car, but is used as key for dictionary. value is all other fields in Car.
+    public static Dictionary<string, Car> garage = new Dictionary<string, Car>(); //string nickname is stored in class Car, but is used as key for dictionary- value is the Car object
 
     //  main method
     public static void Main(string[] args) 
@@ -33,7 +33,7 @@ class VData
             m.clearconsole();
             m.titlebanner();
 
-            foreach (string n in garage.Keys) //grabbin' car info from garage
+            foreach (string n in garage.Keys) //grabbin' n' displayin' car info from garage
             {
                 garage[n].getOfficialName();
             }
