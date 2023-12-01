@@ -15,7 +15,7 @@ class Car //
         make =             AskQ("Make?        |");
         model =            AskQ("Model?       |");
         package =          AskQ("Package?     | ex.--> 2.4L I4, Single Cab, Base");
-        description =      AskQ("Description? | ex.-->Blue Body, Blue Camper Shell");
+        description =      AskQ("Description? | ex.--> Blue Body, Blue Camper Shell");
 
     }
     public string AskQ(string question) //over engineered way of stopping the user from entering a empty field, instead of moving on it prompts the question again.
