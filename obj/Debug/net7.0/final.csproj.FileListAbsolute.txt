@@ -1,0 +1,28 @@
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\bin\Debug\net7.0\final.exe
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\bin\Debug\net7.0\final.deps.json
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\bin\Debug\net7.0\final.runtimeconfig.json
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\bin\Debug\net7.0\final.dll
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\bin\Debug\net7.0\final.pdb
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\obj\Debug\net7.0\final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\obj\Debug\net7.0\final.AssemblyInfoInputs.cache
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\obj\Debug\net7.0\final.AssemblyInfo.cs
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\obj\Debug\net7.0\final.csproj.CoreCompileInputs.cache
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\obj\Debug\net7.0\final.dll
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\obj\Debug\net7.0\refint\final.dll
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\obj\Debug\net7.0\final.pdb
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\obj\Debug\net7.0\final.genruntimeconfig.cache
+C:\Users\lh0972248\OneDrive - Ozarks Technical Community College\compro_cis120\final\obj\Debug\net7.0\ref\final.dll
+C:\Users\logan\OneDrive\Documents\code\c#\final\bin\Debug\net7.0\final.exe
+C:\Users\logan\OneDrive\Documents\code\c#\final\bin\Debug\net7.0\final.deps.json
+C:\Users\logan\OneDrive\Documents\code\c#\final\bin\Debug\net7.0\final.runtimeconfig.json
+C:\Users\logan\OneDrive\Documents\code\c#\final\bin\Debug\net7.0\final.dll
+C:\Users\logan\OneDrive\Documents\code\c#\final\bin\Debug\net7.0\final.pdb
+C:\Users\logan\OneDrive\Documents\code\c#\final\obj\Debug\net7.0\final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\OneDrive\Documents\code\c#\final\obj\Debug\net7.0\final.AssemblyInfoInputs.cache
+C:\Users\logan\OneDrive\Documents\code\c#\final\obj\Debug\net7.0\final.AssemblyInfo.cs
+C:\Users\logan\OneDrive\Documents\code\c#\final\obj\Debug\net7.0\final.csproj.CoreCompileInputs.cache
+C:\Users\logan\OneDrive\Documents\code\c#\final\obj\Debug\net7.0\final.dll
+C:\Users\logan\OneDrive\Documents\code\c#\final\obj\Debug\net7.0\refint\final.dll
+C:\Users\logan\OneDrive\Documents\code\c#\final\obj\Debug\net7.0\final.pdb
+C:\Users\logan\OneDrive\Documents\code\c#\final\obj\Debug\net7.0\final.genruntimeconfig.cache
+C:\Users\logan\OneDrive\Documents\code\c#\final\obj\Debug\net7.0\ref\final.dll
