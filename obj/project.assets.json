@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logan\\OneDrive\\Documents\\code\\c#\\VData\\final.csproj",
-      "projectName": "final",
-      "projectPath": "C:\\Users\\logan\\OneDrive\\Documents\\code\\c#\\VData\\final.csproj",
+      "projectUniqueName": "C:\\Users\\logan\\OneDrive\\Documents\\code\\c#\\VData\\VData.csproj",
+      "projectName": "VData",
+      "projectPath": "C:\\Users\\logan\\OneDrive\\Documents\\code\\c#\\VData\\VData.csproj",
       "packagesPath": "C:\\Users\\logan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\logan\\OneDrive\\Documents\\code\\c#\\VData\\obj\\",
       "projectStyle": "PackageReference",

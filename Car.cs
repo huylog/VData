@@ -1,5 +1,6 @@
 class Car //
 {
+    //  declaring fields for class Car
     public string nickname;
     public Int32 year;
     public string make;
@@ -8,16 +9,16 @@ class Car //
     public string description;
     public Car()
     {
-        //Year Make Model Package Description Questions
-        nickname = AskQ("Nickname?");
-        year = Int32.Parse(AskQ("Year?"));
-        make = AskQ("Make?");
-        model = AskQ("Model?");
-        package = AskQ("Package?");
-        description = AskQ("Description?");
+        //Year Make Model Package Description questions
+        nickname =         AskQ("Nickname?    | Choose a nickname.");
+        year = Int32.Parse(AskQ("Year?        |"));
+        make =             AskQ("Make?        |");
+        model =            AskQ("Model?       |");
+        package =          AskQ("Package?     | ex.--> 2.4L I4, Single Cab, Base");
+        description =      AskQ("Description? | ex.-->Blue Body, Blue Camper Shell");
 
     }
-    public string AskQ(string question)
+    public string AskQ(string question) //over engineered way of stopping the user from entering a empty field, instead of moving on it prompts the question again.
     {
         Console.WriteLine(question);
         String answer = Console.ReadLine() + "";

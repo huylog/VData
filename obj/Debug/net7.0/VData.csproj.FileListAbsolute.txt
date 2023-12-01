@@ -1,0 +1,15 @@
+C:\Users\logan\OneDrive\Documents\code\c#\VData\bin\Debug\net7.0\VData.exe
+C:\Users\logan\OneDrive\Documents\code\c#\VData\bin\Debug\net7.0\VData.deps.json
+C:\Users\logan\OneDrive\Documents\code\c#\VData\bin\Debug\net7.0\VData.runtimeconfig.json
+C:\Users\logan\OneDrive\Documents\code\c#\VData\bin\Debug\net7.0\VData.dll
+C:\Users\logan\OneDrive\Documents\code\c#\VData\bin\Debug\net7.0\VData.pdb
+C:\Users\logan\OneDrive\Documents\code\c#\VData\obj\Debug\net7.0\VData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\OneDrive\Documents\code\c#\VData\obj\Debug\net7.0\VData.AssemblyInfoInputs.cache
+C:\Users\logan\OneDrive\Documents\code\c#\VData\obj\Debug\net7.0\VData.AssemblyInfo.cs
+C:\Users\logan\OneDrive\Documents\code\c#\VData\obj\Debug\net7.0\VData.csproj.CoreCompileInputs.cache
+C:\Users\logan\OneDrive\Documents\code\c#\VData\obj\Debug\net7.0\VData.sourcelink.json
+C:\Users\logan\OneDrive\Documents\code\c#\VData\obj\Debug\net7.0\VData.dll
+C:\Users\logan\OneDrive\Documents\code\c#\VData\obj\Debug\net7.0\refint\VData.dll
+C:\Users\logan\OneDrive\Documents\code\c#\VData\obj\Debug\net7.0\VData.pdb
+C:\Users\logan\OneDrive\Documents\code\c#\VData\obj\Debug\net7.0\VData.genruntimeconfig.cache
+C:\Users\logan\OneDrive\Documents\code\c#\VData\obj\Debug\net7.0\ref\VData.dll
